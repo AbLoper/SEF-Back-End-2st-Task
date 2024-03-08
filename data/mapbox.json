@@ -1,0 +1,253 @@
+{
+    "type": "FeatureCollection",
+    "query": [
+        "lebanon"
+    ],
+    "features": [
+        {
+            "id": "country.8833",
+            "type": "Feature",
+            "place_type": [
+                "country"
+            ],
+            "relevance": 1,
+            "properties": {
+                "mapbox_id": "dXJuOm1ieHBsYzpJb0U",
+                "wikidata": "Q822",
+                "short_code": "lb"
+            },
+            "text": "Lebanon",
+            "place_name": "Lebanon",
+            "bbox": [
+                35.0016167,
+                33.055392,
+                36.623268,
+                34.692055
+            ],
+            "center": [
+                35.888026075855,
+                33.9202654117664
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.888026075855,
+                    33.9202654117664
+                ]
+            }
+        },
+        {
+            "id": "place.182716652",
+            "type": "Feature",
+            "place_type": [
+                "place"
+            ],
+            "relevance": 1,
+            "properties": {
+                "mapbox_id": "dXJuOm1ieHBsYzpDdVFJN0E",
+                "wikidata": "Q1520670"
+            },
+            "text": "Lebanon",
+            "place_name": "Lebanon, Tennessee, United States",
+            "bbox": [
+                -86.483229,
+                36.001574,
+                -86.067097,
+                36.375378
+            ],
+            "center": [
+                -86.291095,
+                36.207978
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.291095,
+                    36.207978
+                ]
+            },
+            "context": [
+                {
+                    "id": "district.25151212",
+                    "mapbox_id": "dXJuOm1ieHBsYzpBWC9HN0E",
+                    "wikidata": "Q501606",
+                    "text": "Wilson County"
+                },
+                {
+                    "id": "region.214252",
+                    "mapbox_id": "dXJuOm1ieHBsYzpBMFRz",
+                    "wikidata": "Q1509",
+                    "short_code": "US-TN",
+                    "text": "Tennessee"
+                },
+                {
+                    "id": "country.8940",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "place.182798572",
+            "type": "Feature",
+            "place_type": [
+                "place"
+            ],
+            "relevance": 1,
+            "properties": {
+                "mapbox_id": "dXJuOm1ieHBsYzpDdVZJN0E",
+                "wikidata": "Q1016139"
+            },
+            "text": "Lebanon",
+            "place_name": "Lebanon, Pennsylvania, United States",
+            "bbox": [
+                -76.537444,
+                40.229486,
+                -76.316398,
+                40.444393
+            ],
+            "center": [
+                -76.423382,
+                40.342968
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -76.423382,
+                    40.342968
+                ]
+            },
+            "context": [
+                {
+                    "id": "district.13264620",
+                    "mapbox_id": "dXJuOm1ieHBsYzp5bWJz",
+                    "wikidata": "Q781165",
+                    "text": "Lebanon County"
+                },
+                {
+                    "id": "region.148716",
+                    "mapbox_id": "dXJuOm1ieHBsYzpBa1Rz",
+                    "wikidata": "Q1400",
+                    "short_code": "US-PA",
+                    "text": "Pennsylvania"
+                },
+                {
+                    "id": "country.8940",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "place.182757612",
+            "type": "Feature",
+            "place_type": [
+                "place"
+            ],
+            "relevance": 1,
+            "properties": {
+                "mapbox_id": "dXJuOm1ieHBsYzpDdVNvN0E",
+                "wikidata": "Q986776"
+            },
+            "text": "Lebanon",
+            "place_name": "Lebanon, Ohio, United States",
+            "bbox": [
+                -84.340782,
+                39.362059,
+                -84.111116,
+                39.536818
+            ],
+            "center": [
+                -84.202992,
+                39.435337
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -84.202992,
+                    39.435337
+                ]
+            },
+            "context": [
+                {
+                    "id": "district.24028908",
+                    "mapbox_id": "dXJuOm1ieHBsYzpBVzZtN0E",
+                    "wikidata": "Q489576",
+                    "text": "Warren County"
+                },
+                {
+                    "id": "region.140524",
+                    "mapbox_id": "dXJuOm1ieHBsYzpBaVRz",
+                    "wikidata": "Q1397",
+                    "short_code": "US-OH",
+                    "text": "Ohio"
+                },
+                {
+                    "id": "country.8940",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "place.182872300",
+            "type": "Feature",
+            "place_type": [
+                "place"
+            ],
+            "relevance": 1,
+            "properties": {
+                "mapbox_id": "dXJuOm1ieHBsYzpDdVpvN0E",
+                "wikidata": "Q922352"
+            },
+            "text": "Lebanon",
+            "place_name": "Lebanon, Indiana, United States",
+            "bbox": [
+                -86.638634,
+                39.919505,
+                -86.2989,
+                40.17717
+            ],
+            "center": [
+                -86.469168,
+                40.048374
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -86.469168,
+                    40.048374
+                ]
+            },
+            "context": [
+                {
+                    "id": "district.1943276",
+                    "mapbox_id": "dXJuOm1ieHBsYzpIYWJz",
+                    "wikidata": "Q499547",
+                    "text": "Boone County"
+                },
+                {
+                    "id": "region.165100",
+                    "mapbox_id": "dXJuOm1ieHBsYzpBb1Rz",
+                    "wikidata": "Q1415",
+                    "short_code": "US-IN",
+                    "text": "Indiana"
+                },
+                {
+                    "id": "country.8940",
+                    "mapbox_id": "dXJuOm1ieHBsYzpJdXc",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        }
+    ],
+    "attribution": "NOTICE: © 2024 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}
